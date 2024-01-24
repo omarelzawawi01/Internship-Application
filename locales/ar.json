@@ -1,0 +1,13 @@
+{
+          "organizationId": "* معرف المنظمة",
+          "buttonLabel": "ع",
+          "nextButton": "التالي",
+          "loginButton": "تسجيل الدخول",
+          "usernameLabel": "* اسم المستخدم",
+          "passwordLabel": "* كلمة المرور",
+          "DifferentOrganization": "تسجيل الدخول إلى منظمة مختلفة",
+          "forgotPassword": "هل نسيت كلمة المرور؟",
+          "fetchingData": "جارٍ جلب البيانات ...",
+          "loggingIn": "تسجيل الدخول ..."
+        }
+        

@@ -1,0 +1,13 @@
+{
+          "organizationId": "Organization ID *",
+          "buttonLabel": "en",
+          "nextButton": "Next",
+          "loginButton": "Login",
+          "usernameLabel": "Username *",
+          "passwordLabel": "Password *",
+          "DifferentOrganization": "Different Organization ID?",
+          "forgotPassword": "Forgot Password?",
+          "fetchingData": "Fetching Data...",
+          "loggingIn": "Logging In..."
+}
+        
